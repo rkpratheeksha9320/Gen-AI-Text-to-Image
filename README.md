@@ -3,7 +3,7 @@
 A Generative AI application that generates images from natural language text prompts using Stable Diffusion and Hugging Face.
 
 ## 🖼️ Demo
-![AI Text-to-Image Generator](demo.png)
+![AI Text-to-Image Generator](screenshot.png)
 
 ## 🚀 Features
 
